@@ -10,3 +10,5 @@ A Streamlit dashboard for visualizing smart grid data. Users can upload CSV file
 
  How to Run
  Install dependencies:
+ Run the app
+ sample csv
