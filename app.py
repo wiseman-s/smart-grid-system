@@ -79,4 +79,4 @@ if st.button("Run Forecast"):
     st.line_chart(chart_df)
 
 # Footer
-st.markdown('<div style="color:#9aa7b2; font-size:12px;">Prototype by Simon Wanyoike | Contact: allinmer57@gmail.com:https://wa.me/qr/RRLQFSBBWVRFJ1 <br>Harnessing Data to Power Kenya\'s Clean Energy Future</div>', unsafe_allow_html=True)
+st.markdown('<div style="color:#9aa7b2; font-size:12px;">Prototype by Simon Wanyoike | Contact: allinmer57@gmail.com:<br>Harnessing Data to Power Kenya\'s Clean Energy Future</div>', unsafe_allow_html=True)
