@@ -10,7 +10,7 @@ import altair as alt
 st.set_page_config(page_title="Smart Grid Dashboard", layout="wide")
 
 # Header
-st.markdown('<h1 style="color:#33C1FF;">⚡️ Smart Grid Dashboard</h1>', unsafe_allow_html=True)
+st.markdown('<h3 style="color:#33C1FF;">⚡️ Smart Grid Dashboard</h1>', unsafe_allow_html=True)
 
 # File upload
 uploaded_file = st.file_uploader("Upload CSV file", type="csv")
